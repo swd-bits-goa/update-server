@@ -1,1 +1,1 @@
-script.sh
+scripts/update-script.sh
