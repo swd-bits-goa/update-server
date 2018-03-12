@@ -9,7 +9,7 @@ A simple Flask app to avoid trips to the SWD for updating swd-bits-goa
 
 ## About
 
-update-server is a utility web server that will run the script specified in script_path.txt on an HTTP GET at localhost:443
+update-server is a utility web server that will run the script specified in `script_path.txt` on an HTTP GET at localhost:443
 
 The exit return value of the script is returned for the GET query.
 
